@@ -68,7 +68,7 @@
                   <div class="top-nav s-12 l-10 right">
                      <p class="nav-text">MENU</p>
                      <ul class="right">
-                        <li><a href="index.html"><strong>Home</strong></a></li>
+                        <li><a href="index.php"><strong>Home</strong></a></li>
                         <li><a href="index1.html"><strong>About us</strong></a></li>
 						
                         <li><a ><strong>Telugu States</strong></a>
