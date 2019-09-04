@@ -1,0 +1,272 @@
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=Exo+2);
+@import url(http://fonts.googleapis.com/css?family=Cardo);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script:400,700);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=Cuprum);
+@import url(http://fonts.googleapis.com/css?family=Comfortaa);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,600); 
+
+
+
+@media (min-width: 320px) and (max-width: 640px) {
+body{margin:0px; width:100%; background: #cccccc;}
+#top{float:left;min-height:60px; height:auto; width:100%; background-color:#85144b; }
+#topleft{ float:left; margin-left:2%;margin-top:4%; color:#FFFFFF; font-family: 'Titillium Web', sans-serif; font-size:12px; }
+#toptext{ float:left; margin-left:2%;margin-top:1%; margin-bottom:1%; color:#FFFFFF; font-family: 'Titillium Web', sans-serif; font-size:12px; }
+#top1{float:left; height:50px; width:100%; background-color:#ffffff; }
+#logotext1{ float:left; margin-left:5%; margin-top:2%; font-family: 'Titillium Web', sans-serif; color:#85144b; font-size:20px;}
+
+
+#slide{float:left; background-color:#fff; width:100% ; min-height:30px; height:auto;background-image:url(../img/body.jpg); background-color:#85144b; }
+
+#jmain{ float:left;  width:100% ; min-height:650px; height:auto; margin-bottom:0%;background-color: #85144b; }
+#jm1{float:left; height:250px; margin-left:0%; width:100%; background-color:#85144b;  }
+#pjm1{float:left; margin-left:35%; margin-top:10%; height:120px; width:120px; background-color:#85144b;background-position:center; border-radius:50%; border:2px solid #85144b;}
+#docn{ float:left; margin-top:4%; margin-left:15%; font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 20px;  }
+#jm2{float:left; height:320px; margin-left:0%;  width:100%; background-color:#85144b; }
+#hsptl{ float:left; margin-top:3%; text-align:justify; margin-left:5%; letter-spacing:inherit; margin-right:5%; font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 12px;  }
+
+a:link {
+    color: #ffed99;
+}
+
+/* visited link */
+a:visited {
+    color: #ffed99;
+}
+
+/* mouse over link */
+a:hover {
+    color:#red;
+}
+
+
+
+
+#event{ float:left;width:100% ; min-height:200px; height:auto;background-color:#85144b;background-image:url(../img/body.jpg); }
+
+#eventtext{float:left;margin-left:15%; margin-top:2%; color:#85144b; font-family: 'Merienda', cursive;font-size:22px; }
+#eventtext1{ float:left; margin-left:5%;margin-right:5%; margin-top:1%; color:#85144b;font-family: 'Titillium Web', sans-serif; font-size:16px; line-height:1.8; text-align:justify;}
+
+
+#eventtext2{ float:left; margin-left:8%;margin-right:5%; margin-top:1%; color:#85144b;font-family: 'Titillium Web', sans-serif;  font-size:16px; line-height:1.4; text-align:inherit;}
+
+
+
+.responsive { width: 100%;  max-width: auto;}
+#mmain{ float:left;  width:100% ; min-height:750px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+
+#hsptl1{ float:left; margin-left:20px;margin-top:2%; margin-right:10px; text-align:justify;font-family: 'Titillium Web', sans-serif; color:#fff; font-size:20px;  }
+
+#t1card { float:left; margin-left:8%; margin-top:2%;background:#fff;height:220px;position: relative;width:80%;}
+#t1card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#t1card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#t1card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#t2card { float:left;margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#t2card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#t2card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#t2card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#t3card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#t3card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#t3card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#t3card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#t4card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#t4card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#t4card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#t4card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#t5card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#t5card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#t5card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#t5card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#end{float:left; margin-top:0%; height:70px; width:100%; background-color:#85144b; }
+#endl{ float:left; margin-top:1%; margin-left:3%; margin-right:5%; letter-spacing: normal; line-height:inherit;font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 12px;  }
+#end2{ float:left; margin-top:1%; margin-left:3%; margin-right:5%; letter-spacing: normal; line-height:inherit;font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 12px;  }
+
+
+#aevent{ float:left;width:100% ; min-height:700px; height:auto;background-color:#85144b;background-image:url(../img/body.jpg); }
+
+#aeventtext{float:left;margin-left:15%; margin-top:2%; color:#85144b; font-family: 'Merienda', cursive;font-size:22px; }
+#aeventtext1{ float:left; margin-left:5%;margin-right:5%; margin-top:1%; color:#85144b;font-family: 'Titillium Web', sans-serif; font-size:16px; line-height:1.8; text-align:justify;}
+#aeventtext2{ float:left; margin-left:8%;margin-right:5%; margin-top:1%; color:#85144b;font-family: 'Titillium Web', sans-serif;  font-size:16px; line-height:1.4; text-align:inherit;}
+
+
+
+
+#ahsptl1{ float:left; margin-left:20px;margin-top:2%; margin-right:10px; text-align:justify;font-family: 'Titillium Web', sans-serif; color:#fff; font-size:20px;  }
+#at1card { float:left; margin-left:8%; margin-top:2%;background:#fff;height:220px;position: relative;width:80%;}
+#at1card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#at1card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#at1card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#at2card { float:left;margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#at2card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#at2card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#at2card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#at3card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#at3card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#at3card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#at3card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#at4card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#at4card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#at4card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#at4card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#at5card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#at5card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#at5card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#at5card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+
+
+
+#aat1card { float:left; margin-left:8%; margin-top:2%;background:#fff;height:220px;position: relative;width:80%;}
+#aat1card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#aat1card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#aat1card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#aat2card { float:left;margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#aat2card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#aat2card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#aat2card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#aat3card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#aat3card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#aat3card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#aat3card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#aat4card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#aat4card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#aat4card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#aat4card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+#aat5card { float:left; margin-left:8%; margin-top:8%;background:#fff;height:220px;position: relative;width:80%;}
+#aat5card1 { float:left;background: #fff; height:80%;  position: relative;  width:100%;}
+#aat5card3 { float:left; background: #85144b;  height:20%;  position: relative;  width:100%;}
+#aat5card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
+
+
+
+#gap{ float:left;  width:100% ; min-height:20px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+
+#htop{float:left; height:60px; width:100%;background-color:#85144b; }
+#httext{float:left; margin-left:38%; margin-top:5%; font-family: Georgia;color:#fff;font-size:18px}
+#ahttext{float:left;margin-left:25%; margin-top:5%; font-family: Georgia;  color: #fff; font-size: 20px}
+#bhttext{float:left;margin-left:10%; margin-top:5%; font-family: Georgia;  color: #fff; font-size: 16px}
+
+
+
+
+#ammain{ float:left;width:100%;min-height:80px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+#team{float:left; margin-left:22%; margin-top:6%; margin-right:5%;height:40px; width:60%; background-color:#85144b; }
+#adtext{float:left; margin-top:2%; margin-left:22%; font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 20px;}
+
+#ammain1{ float:left;width:100%;min-height:600px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+
+
+#a1card1{float:left;margin-left:20%;margin-top:2%;background:#fff;height:280px;position: relative;width:250px;background-image:url(../img/body.jpg);}
+#a1card2 {float:left; margin-left:22%; margin-top:8%; margin-bottom:8%; height:140px; width:140px; background-color:#fff; background-image:url(../img/doc/svew.jpg); background-position:center; border-radius:50%; border:5px solid #85144b;}
+#a1card3{float:left; background: #85144b;  height: 80px;  position: relative;  width: 250px;}
+#a1docn1{float:left; margin-top:5%; margin-left:25%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;  }
+#a1docn2{float:left; margin-top:1px; margin-left:25%; font-family: 'Titillium Web', sans-serif; text-align:center; color:#fff; font-size: 14px;   }
+
+
+#a2card1{float:left;margin-left:20%;margin-top:2%;background:#fff;height:280px;position: relative;width:250px;background-image:url(../img/body.jpg);}
+#a2card2 {float:left; margin-left:22%; margin-top:8%; margin-bottom:8%; height:140px; width:140px; background-color:#fff; background-image:url(../img/doc/svew.jpg); background-position:center; border-radius:50%; border:5px solid #85144b;}
+#a2card3{float:left; background: #85144b;  height: 80px;  position: relative;  width: 250px;}
+#a2docn1{float:left; margin-top:5%; margin-left:16%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;  }
+#a2docn2{float:left; margin-top:1px; margin-left:25%; font-family: 'Titillium Web', sans-serif; text-align:center; color:#fff; font-size: 14px;   }
+
+
+#a3card1{float:left;margin-left:20%;margin-top:2%;background:#fff;height:280px;position: relative;width:250px;background-image:url(../img/body.jpg);}
+#a3card2 {float:left; margin-left:22%; margin-top:8%; margin-bottom:8%; height:140px; width:140px; background-color:#fff; background-image:url(../img/doc/svew.jpg); background-position:center; border-radius:50%; border:5px solid #85144b;}
+#a3card3{float:left; background: #85144b;  height: 80px;  position: relative;  width: 250px;}
+#a3docn1{float:left; margin-top:5%; margin-left:16%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;  }
+#a3docn2{float:left; margin-top:1px; margin-left:25%; font-family: 'Titillium Web', sans-serif; text-align:center; color:#fff; font-size: 14px;   }
+
+
+#a4card1{float:left;margin-left:20%;margin-top:2%;background:#fff;height:280px;position: relative;width:250px;background-image:url(../img/body.jpg);}
+#a4card2 {float:left; margin-left:22%; margin-top:8%; margin-bottom:8%; height:140px; width:140px; background-color:#fff; background-image:url(../img/doc/svew.jpg); background-position:center; border-radius:50%; border:5px solid #85144b;}
+#a4card3{float:left; background: #85144b;  height: 80px;  position: relative;  width: 250px;}
+#a4docn1{float:left; margin-top:5%; margin-left:16%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;  }
+#a4docn2{float:left; margin-top:1px; margin-left:25%; font-family: 'Titillium Web', sans-serif; text-align:center; color:#fff; font-size: 14px;   }
+
+
+
+#aammain1{ float:left;width:100%;min-height:600px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+
+#a5card1{float:left;margin-left:20%;margin-top:2%;background:#fff;height:280px;position: relative;width:250px;background-image:url(../img/body.jpg);}
+#a5card2 {float:left; margin-left:22%; margin-top:8%; margin-bottom:8%; height:140px; width:140px; background-color:#fff; background-image:url(../img/co.jpg); background-position:center; border-radius:50%; border:5px solid #85144b;}
+#a5card3{float:left; background: #85144b;  height: 80px;  position: relative;  width: 250px;}
+#a5docn1{float:left; margin-top:5%; margin-left:15%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;  }
+#a5docn2{float:left; margin-top:1px; margin-left:35%; font-family: 'Titillium Web', sans-serif; text-align:center; color:#fff; font-size: 14px;   }
+
+
+#a6card1{float:left;margin-left:20%;margin-top:2%;background:#fff;height:280px;position: relative;width:250px;background-image:url(../img/body.jpg);}
+#a6card2 {float:left; margin-left:22%; margin-top:8%; margin-bottom:8%; height:140px; width:140px; background-color:#fff; background-image:url(../img/doc/svew.jpg); background-position:center; border-radius:50%; border:5px solid #85144b;}
+#a6card3{float:left; background: #85144b;  height: 80px;  position: relative;  width: 250px;}
+#a6docn1{float:left; margin-top:5%; margin-left:5%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;  }
+#a6docn2{float:left; margin-top:1px; margin-left:30%; font-family: 'Titillium Web', sans-serif; text-align:center; color:#fff; font-size: 14px;   }
+
+
+#wdept{ float:left;width:100%;min-height:300px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+
+#wemain{ float:left;width:100%;min-height:40px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg); }
+#weteam{float:left; margin-left:15%; margin-top:0%; margin-right:5%;height:40px; width:70%; background-color:#85144b; }
+#wetext{float:left; margin-top:1%; margin-left:20%; font-family: 'Titillium Web', sans-serif; color:#ffed99; font-size: 20px;}
+
+
+
+
+
+#wrdept{ float:left;width:100%;min-height:300px; height:auto; background-color:#FFFFFF;background-image:url(../img/body.jpg);}
+
+
+#a{float:left; margin-top:1%; margin-left:5%;font-family: 'Titillium Web', sans-serif; color:#85144b; font-size: 22px; }
+
+#b{float:left; margin-top:1%; margin-left:33%;font-family: 'Titillium Web', sans-serif; color:#85144b; font-size:20px; }
+
+#c{float:left; margin-top:1%; margin-left:8%;font-family: 'Titillium Web', sans-serif; color:#85144b; font-size: 15px; }
+
+#d{float:left; margin-top:1%; margin-left:5%;font-family: 'Titillium Web', sans-serif; color:#85144b; font-size: 20px; }
+
+#e{float:left; margin-top:1%; margin-left:5%;font-family: 'Titillium Web', sans-serif; color:#85144b; font-size: 20px; }
+#f{float:left; margin-top:1%; margin-left:5%; margin-right:2%;font-family: 'Titillium Web', sans-serif; color:#85144b; font-size: 16px; }
+
+
+
+
+
+
+
+
+
+}
