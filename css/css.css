@@ -1,7 +1,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap');
 </style>
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
  body{ margin:0px;width:100%; background-color:#cccccc; }
 #top{float:left; height:60px; width:100%; background-color:#f22162; }
 #topleft{ float:left; margin-left:5%; margin-top:1%; color:#FFFFFF; font-family: 'Raleway', sans-serif; font-size:12px;}
