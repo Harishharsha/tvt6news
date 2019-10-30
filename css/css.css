@@ -1,16 +1,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap');
 </style>
-@media (max-width: 600px) {
- body{ margin:0px;width:100%; background-color:#cccccc; }
-#top{float:left; height:60px; width:100%; background-color:#ffffff; }
-#topleft{ float:left; margin-left:5%; margin-top:1%; color:#FFFFFF; font-family: 'Raleway', sans-serif; font-size:12px;}
-#toptext{ float:right; margin-right:2%; margin-top:1%; color:#FFFFFF; font-family: 'Raleway', sans-serif; font-size:12px;}
 
-#top1{float:left;height:100px; width:100%; background-color:#ffffff;  }
-#logotext1{ float:left;  margin-top:1%; font-family: 'Dosis', sans-serif; color:#002ab0; font-size:26px;}
-
-}
 body{ margin:0px;width:100%; background-color:#cccccc; }
 #top{float:left; height:50px; width:100%; background-color:#f22162; }
 #topleft{ float:left; margin-left:5%; margin-top:1%; color:#FFFFFF; font-family: 'Raleway', sans-serif; font-size:16px;}
