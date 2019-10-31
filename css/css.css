@@ -4,9 +4,7 @@
 @media screen and (max-width:600px){
     
     body{margin:0px;width:100%; background-color:#cccccc;}
-    #top{float:left; height:30%; width:100%; background-color:#f22162; }
-#topleft{ float:left; margin-left:5%; margin-top:1%; color:#FFFFFF; font-family: 'Raleway', sans-serif; font-size:1%;}
-#toptext{ float:right; margin-right:2%; margin-top:1%; color:#FFFFFF; font-family: 'Raleway', sans-serif; font-size:1%;}
+    #top{float:left; height:50px; width:100%; background-color:#cccccc; }
 }
 body{ margin:0px;width:100%; background-color:#cccccc; }
 #top{float:left; height:50px; width:100%; background-color:#f22162; }
