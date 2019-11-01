@@ -15,25 +15,24 @@
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,600); 
 
 
-
 @media (min-width: 320px) and (max-width: 640px) {
 body{margin:0px; width:100%; background: #cccccc;}
-#top{float:left;min-height:60px; height:auto; width:100%; background-color:#85144b; }
-#topleft{ float:left; margin-left:2%;margin-top:4%; color:#FFFFFF; font-family: 'Titillium Web', sans-serif; font-size:12px; }
+#top{float:left;min-height:60px; height:auto; width:100%; background-color:#f22162; }
+#topleft{ float:left; margin-left:2%;margin-top:4%; color:#FFFFFF; font-family: 'Comfortaa', sans-serif; font-size:12px; }
 #toptext{ float:left; margin-left:2%;margin-top:1%; margin-bottom:1%; color:#FFFFFF; font-family: 'Titillium Web', sans-serif; font-size:12px; }
 #top1{float:left; height:50px; width:100%; background-color:#ffffff; }
-#logotext1{ float:left; margin-left:5%; margin-top:2%; font-family: 'Titillium Web', sans-serif; color:#85144b; font-size:20px;}
+#logotext1{ float:left; margin-left:5%; margin-top:2%; font-family: 'Comfortaa', sans-serif; color:#85144b; font-size:20px;}
 
 
-#slide{float:left; background-color:#fff; width:100% ; min-height:30px; height:auto;background-image:url(../img/body.jpg); background-color:#85144b; }
+#slide{float:left; background-color:#fff; width:100% ; min-height:50px; height:auto;background-image:url(../img/body.jpg); background-color:#85144b; }
 
-#jmain{ float:left;  width:100% ; min-height:650px; height:auto; margin-bottom:0%;background-color: #85144b; }
-#jm1{float:left; height:250px; margin-left:0%; width:100%; background-color:#85144b;  }
-#pjm1{float:left; margin-left:35%; margin-top:10%; height:120px; width:120px; background-color:#85144b;background-position:center; border-radius:50%; border:2px solid #85144b;}
-#docn{ float:left; margin-top:4%; margin-left:15%; font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 20px;  }
-#jm2{float:left; height:320px; margin-left:0%;  width:100%; background-color:#85144b; }
-#hsptl{ float:left; margin-top:3%; text-align:justify; margin-left:5%; letter-spacing:inherit; margin-right:5%; font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 12px;  }
-
+#jmain{ float:left;  width:100% ; min-height:450px; height:auto; margin-bottom:0%;background-color: #002ab0; }
+#jm1{float:left; height:250px; margin-left:0%; width:100%; background-color:#002ab0;  }
+#pjm1{float:left; margin-left:30%; margin-top:10%; height:160px; width:160px; background-color:#fff;background-position:center; border-radius:50%; border:2px solid #85144b;}
+#docn{ float:left; margin-top:4%; margin-left:38%; font-family: 'Comfortaa', sans-serif; color:#fff; font-size: 15px;  }
+#jm2{float:left; height:220px; margin-top:5%; margin-left:-2%;  width:100%; background-color:#002ab0; }
+#hsptl{ float:left; margin-top:3%; text-align:justify; margin-left:5%; letter-spacing:inherit; margin-right:5%; font-family: 'Comfortaa', sans-serif; color:#fff; font-size: 12px;  }
+strong.md3{margin-left:20%;}
 a:link {
     color: #ffed99;
 }
@@ -96,7 +95,7 @@ a:hover {
 #t5card4 { float:left; margin-left:55%; margin-top:35%;  background: #fff;  height:20% ;  position: relative;  width: 40%;}
 
 
-#end{float:left; margin-top:0%; height:70px; width:100%; background-color:#85144b; }
+#end{float:left; margin-top:0%; height:70px; width:100%; background-color:#f22162; }
 #endl{ float:left; margin-top:1%; margin-left:3%; margin-right:5%; letter-spacing: normal; line-height:inherit;font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 12px;  }
 #end2{ float:left; margin-top:1%; margin-left:3%; margin-right:5%; letter-spacing: normal; line-height:inherit;font-family: 'Titillium Web', sans-serif; color:#fff; font-size: 12px;  }
 
